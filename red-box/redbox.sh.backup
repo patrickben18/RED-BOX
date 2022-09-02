@@ -1,0 +1,42 @@
+#!/bin/bash
+figlet -f 3d RED-BOX | lolcat
+echo "$string" | sed 's/-/ -/'
+echo "$string" | sed 's/-/ -/'
+echo "$string" | sed 's/-/ -/'
+echo "Pentest your box, which is made specifically for Red Teamers to conduct"
+echo "advance stealthy approach towards penetration testing on field"
+figlet -f script @patrickben18 | lolcat
+echo "$string" | sed 's/-/ -/'
+echo "Select the option below to start the assessment"
+echo "$string" | sed 's/-/ -/'
+echo "<<---------------------------------------------------------->>"
+wget -q --spider http://google.com
+if [ $? -eq 0 ]; then
+    echo ">>> System is Online"
+echo "$string" | sed 's/-/ -/'
+echo ">>> The IP assigned is:" 
+ip -4 addr | grep -oP '(?<=inet\s)\d+(\.\d+){3}'
+echo "$string" | sed 's/-/ -/'
+route -n
+else
+    echo ">>> System is Offline"
+fi
+echo "<<---------------------------------------------------------->>"
+echo "$string" | sed 's/-/ -/'
+echo "$string" | sed 's/-/ -/'
+echo "1) Android"
+echo "2) Network"
+echo "$string" | sed 's/-/ -/'
+echo "$string" | sed 's/-/ -/'
+echo "Choose a desired number:$num"
+num=$num
+read num 
+if [ $num -eq 1 ];
+ then
+echo "android"
+elif [ $num -eq 2 ];
+ then
+echo "network"
+else 
+echo "Input is invalid"
+fi
