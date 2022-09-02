@@ -1,1 +1,5 @@
 # RED-BOX
+
+Red box's Linux-based backend ensures that it is undetectable to outsiders, safe, and adaptable for usage in any environment. It's difficult to foresee the gadget's behaviour since it seems to be a normal power bank at first glance, but it's really an advanced computing device containing codes that allow the attacker to initiate an attack without being noticed. Since it can't be detected by scanners like CT and X-ray machines, this gadget makes it simple to access the conducting region. The anti-reflective covering totally encases it, keeping your identity hidden. Scanning the interior of the red box is impossible because the scanner's non-ionizing radio frequency is reflected off of the reflective coating inside. The device's anti-reflective coating is there to protect the privacy of its sensitive internal components in the event that they need to be examined or checked.
+
+This is a new idea of red teaming and this have a significant role in conducting red teaming on field. 
